@@ -12,7 +12,7 @@ We cover selected topics in geospatial analysis in a largely applied (non-theore
 * characteristics of geospatial data
 * methods for mapping and descriptive analysis
 
-Detailed lecture material is found in the *slides* folder.  Hands-on examples and activities using pre-written R code are available in the *R* folder for practical skill development.  Additional useful sources of information, as well as tutorials on working in R, can be found in the *resources* folder.
+Detailed lecture material is found in the **slides** folder.  Hands-on examples and activities using pre-written R code are available in the **R** folder for practical skill development.  Additional useful sources of information, as well as tutorials on working in R, can be found in the **resources** folder.
 
 Some basic familiarity with data manipulation in R is a helpful pre-requisite.  Having experience using *tidyverse* packages is an asset.
 
